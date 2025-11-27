@@ -122,8 +122,7 @@ Feel free to **open issues** or **submit pull requests**. All contributions are 
 ---
 
 ## 👨‍💻 Authors
-- **014-Jayal** – [GitHub](https://github.com/014-Jayal) | [LinkedIn](https://www.linkedin.com/in/jayal-shah04/)
-- **Niheel Prajapati** – [GitHub](https://github.com/) | [LinkedIn](https://www.linkedin.com/in/niheel-prajapati/)
+- **Aayushi soni** – [GitHub](https://github.com/aayu684) | [LinkedIn](https://www.linkedin.com/in/aayushisoni6295/)
 
 ---
 
