@@ -1,0 +1,11 @@
+accelerate
+transformers
+diffusers
+datasets
+torchvision
+Pillow==9.5.0
+bitsandbytes
+# xformers # Optional, but recommended for faster training on compatible GPUs
+pandas
+matplotlib # For displaying images during inference
+huggingface_hub
